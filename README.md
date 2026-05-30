@@ -1,17 +1,3 @@
-# Acknowledgements
-
-At the end of this work, it is a pleasure to thank all those who contributed to its completion. I naturally begin with my family, who endured my absences, doubts, and long nights of work with remarkable patience. I think especially of my father, Noureddine Khlif, my mother, Wafa Rebai, my sister, Tasnim Khlif, and my brother, Ayoub Khlif, as well as my extended family. Their silent but constant support was my anchor throughout this project.
-
-I also thank my friends for their sincere encouragement and for often, without knowing it, reigniting my drive when I needed it most.
-
-My thanks also go to all the faculty members of the Faculty of Sciences at the University of Monastir, whose teachings appear, in one way or another, on every page of this thesis. I wish to express my deep gratitude to my professor Mounir Zrigui, who believed in me and in the potential of this idea from the very beginning. I also thank the faculty of the Military Academy of Fondouk Jdid, who shaped my way of thinking and working.
-
-This project was born at the intersection of two worlds that define me: music and software engineering. I therefore cannot fail to mention my music teachers, those who accompanied me since childhood. I think first of my professor Mourad Bougares, who laid in me the first stones of a passion that has never stopped growing. He believed in my potential and his trust gave me the desire not to stop there, and the ambition to make this work the first foundations of a future startup.
-
-Finally, I thank the open source community, whose generosity and spirit of sharing made this project technically possible. Through their collective commitment and willingness to make knowledge accessible to all, they contribute every day to shaping a more open, more accessible technology sector, one that holds a better future for all of humanity.
-
----
-
 # Abstract
 
 The dominant music generation platforms produce audio in an opaque manner, without structural control or inspectable intermediate artifacts. This report presents "Open Generative Studios," a web platform for orchestral music generation designed as a transparent, reproducible, and GPU-free alternative.
